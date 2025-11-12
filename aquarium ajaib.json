@@ -1,7 +1,7 @@
 {
   "firstLayout": "Home",
   "gdVersion": {
-    "build": 240,
+    "build": 245,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -669,6 +669,166 @@
         "name": "button close.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Sound/bgm/bgm main menu - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\bgm\\bgm main menu - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main menu/button mulai- aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main menu\\button mulai- aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main menu/button setting - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main menu\\button setting - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/setting/button X- aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\setting\\button X- aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/pilih level/pencet level - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\pilih level\\pencet level - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/pilih level/buka kunci level - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\pilih level\\buka kunci level - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/bgm/bgm main gameplay - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\bgm\\bgm main gameplay - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/pause/button pause - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\pause\\button pause - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/pause/button lanjutkan- aquarium ajaib.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\pause\\button lanjutkan- aquarium ajaib.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/pause/button home - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\pause\\button home - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main gameplay/button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main gameplay/jawaban benar atau layar hijau - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main gameplay/paus dapet bintang 1 - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main gameplay\\paus dapet bintang 1 - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main gameplay/paus dapet bintang 2 - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main gameplay\\paus dapet bintang 2 - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main gameplay/level selesai - aquarium ajaib.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main gameplay\\level selesai - aquarium ajaib.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sound/sfx/main gameplay/bersihin lumut pakai sponge versi 1x - aquarium ajaib [music].wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound\\sfx\\main gameplay\\bersihin lumut pakai sponge versi 1x - aquarium ajaib [music].wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -685,12 +845,15 @@
       "value": "0"
     },
     {
-      "folded": true,
       "name": "Data",
       "type": "structure",
       "children": [
         {
-          "folded": true,
+          "name": "BGM",
+          "type": "number",
+          "value": 50
+        },
+        {
           "name": "Level",
           "type": "structure",
           "children": [
@@ -710,6 +873,11 @@
               "value": 0
             }
           ]
+        },
+        {
+          "name": "SFX",
+          "type": "number",
+          "value": 50
         }
       ]
     },
@@ -745,8 +913,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.44819780454103736,
-        "windowMask": false
+        "zoomFactor": 0.2636457673770811,
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -1214,7 +1383,7 @@
           "persistentUuid": "b3e7daa6-0152-4992-b32c-928924fed2e5",
           "width": 0,
           "x": 593,
-          "y": 582,
+          "y": 596,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -3199,6 +3368,7 @@
       },
       "events": [
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3211,6 +3381,30 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "",
+                "TempLoad"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\bgm\\bgm main menu - aquarium ajaib.wav",
+                "1",
+                "",
+                "Data.BGM",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "Tween::TweenBehavior::AddObjectPositionTween2"
@@ -3514,6 +3708,68 @@
               "parameters": [
                 "",
                 "\"Setting\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "!=",
+                    "\"0\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "JSONToVariableStructure2"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "Data"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "=",
+                    "Data.SFX",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Musik",
+                    "=",
+                    "Data.BGM",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -4118,6 +4374,16 @@
             },
             {
               "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"Setting\""
+              ]
+            },
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
@@ -4126,12 +4392,33 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main menu\\button mulai- aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetStringVariable"
               },
               "parameters": [
                 "Scene",
                 "=",
                 "\"Level\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
               ]
             },
             {
@@ -4187,6 +4474,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main menu\\button setting - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "ShowLayer"
@@ -4280,6 +4580,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\setting\\button X- aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "HideLayer"
               },
               "parameters": [
@@ -4322,6 +4635,85 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Musik",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.BGM",
+                "=",
+                "Musik.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Sound",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.SFX",
+                "=",
+                "Sound.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -4459,7 +4851,7 @@
       "name": "Level",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -4473,7 +4865,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.28172599320795605,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [
         {
@@ -6463,11 +6856,15 @@
             },
             {
               "type": {
-                "value": "JSONToVariableStructure2"
+                "value": "PlayMusicCanal"
               },
               "parameters": [
-                "TempLoad",
-                "Data"
+                "",
+                "Sound\\bgm\\bgm main menu - aquarium ajaib.wav",
+                "1",
+                "",
+                "Data.BGM",
+                ""
               ]
             },
             {
@@ -6685,6 +7082,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pilih level\\buka kunci level - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
@@ -6798,6 +7208,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pilih level\\buka kunci level - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
@@ -6878,6 +7301,32 @@
                         ""
                       ]
                     }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "!=",
+                    "\"0\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "JSONToVariableStructure2"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "Data"
                   ]
                 }
               ]
@@ -7303,90 +7752,187 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Gelembung",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "Tween::HasFinished"
-                  },
-                  "parameters": [
-                    "Level_1",
-                    "Tween",
-                    "\"Level\""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Tween::HasFinished"
+                      },
+                      "parameters": [
+                        "Level_1",
+                        "Tween",
+                        "\"Level\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PosY"
+                      },
+                      "parameters": [
+                        "Level_1",
+                        "=",
+                        "259"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                      },
+                      "parameters": [
+                        "Level_1",
+                        "Tween",
+                        "\"Level\"",
+                        "300",
+                        "\"linear\"",
+                        "1",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "PosY"
-                  },
-                  "parameters": [
-                    "Level_1",
-                    "=",
-                    "259"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Tween::HasFinished"
+                      },
+                      "parameters": [
+                        "Level_1",
+                        "Tween",
+                        "\"Level\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PosY"
+                      },
+                      "parameters": [
+                        "Level_1",
+                        "=",
+                        "300"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                      },
+                      "parameters": [
+                        "Level_1",
+                        "Tween",
+                        "\"Level\"",
+                        "259",
+                        "\"linear\"",
+                        "1",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.4"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                  },
-                  "parameters": [
-                    "Level_1",
-                    "Tween",
-                    "\"Level\"",
-                    "300",
-                    "\"linear\"",
-                    "1",
-                    ""
-                  ]
-                }
-              ]
+              "parameters": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "Tween::HasFinished"
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
                     "Level_1",
-                    "Tween",
-                    "\"Level\""
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "PosY"
+                    "value": "MouseButtonFromTextPressed"
                   },
                   "parameters": [
-                    "Level_1",
-                    "=",
-                    "300"
+                    "",
+                    "\"Left\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Data.Level.1",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                    "value": "PlaySoundCanal"
                   },
                   "parameters": [
-                    "Level_1",
-                    "Tween",
-                    "\"Level\"",
-                    "259",
-                    "\"linear\"",
-                    "1",
+                    "",
+                    "Sound\\sfx\\pilih level\\pencet level - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Scene",
+                    "=",
+                    "\"Level1\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Loading\"",
                     ""
                   ]
                 }
@@ -7551,6 +8097,16 @@
                         "=",
                         "2"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Data.Level.2",
+                        "=",
+                        "0"
+                      ]
                     }
                   ],
                   "actions": [
@@ -7611,6 +8167,16 @@
                         "=",
                         "2"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Data.Level.2",
+                        "=",
+                        "0"
+                      ]
                     }
                   ],
                   "actions": [
@@ -7632,6 +8198,90 @@
                 }
               ],
               "parameters": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Level_2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Data.Level.2",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pilih level\\pencet level - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Scene",
+                    "=",
+                    "\"Level2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Loading\"",
+                    ""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -7792,6 +8442,16 @@
                         "=",
                         "3"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Data.Level.3",
+                        "=",
+                        "0"
+                      ]
                     }
                   ],
                   "actions": [
@@ -7852,6 +8512,16 @@
                         "=",
                         "3"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Data.Level.3",
+                        "=",
+                        "0"
+                      ]
                     }
                   ],
                   "actions": [
@@ -7873,9 +8543,100 @@
                 }
               ],
               "parameters": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Level_3",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Data.Level.3",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pilih level\\pencet level - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Scene",
+                    "=",
+                    "\"Level3\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Loading\"",
+                    ""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -8000,7 +8761,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.4335774304702377,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -10545,6 +11307,7 @@
       },
       "events": [
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -10557,6 +11320,30 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "",
+                "TempLoad"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\bgm\\bgm main gameplay - aquarium ajaib.wav",
+                "1",
+                "",
+                "Data.BGM",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "SetNumberVariable"
@@ -10603,6 +11390,68 @@
               "parameters": [
                 "",
                 "\"Reward\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "=",
+                    "Data.SFX",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Musik",
+                    "=",
+                    "Data.BGM",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "!=",
+                    "\"0\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "JSONToVariableStructure2"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "Data"
+                  ]
+                }
               ]
             }
           ]
@@ -10858,7 +11707,6 @@
           ]
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -10915,6 +11763,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "SetNumberVariable"
@@ -11055,12 +11916,38 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
                     "Click",
                     "=",
                     "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
                   ]
                 },
                 {
@@ -11223,12 +12110,38 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
                     "Click",
                     "=",
                     "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
                   ]
                 },
                 {
@@ -11370,6 +12283,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "SetNumberVariable"
@@ -11526,6 +12452,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\paus dapet bintang 1 - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -11573,6 +12512,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\paus dapet bintang 2 - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "SetNumberVariable"
@@ -11636,6 +12588,19 @@
               "parameters": [
                 "",
                 "\"Reward\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\level selesai - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
               ]
             },
             {
@@ -11740,296 +12705,185 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Pause",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Button_Pause",
-                "",
-                "",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_Pause",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pause\\button pause - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Click",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Pause\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetLayerEffectParameter"
+                  },
+                  "parameters": [
+                    "",
+                    "",
+                    "\"Effect\"",
+                    "\"brightness\"",
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Background_Jeda",
+                    "Tween",
+                    "\"End\"",
+                    "255",
+                    "\"easeInOutCubic\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Button_Lanjutkan",
+                    "Tween",
+                    "\"ButtonLanjutkan\"",
+                    "255",
+                    "\"easeInOutCubic\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Musik",
+                    "Tween",
+                    "\"Musik\"",
+                    "255",
+                    "\"easeInOutCubic\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "Tween",
+                    "\"Musik\"",
+                    "255",
+                    "\"easeInOutCubic\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Button_Home",
+                    "Tween",
+                    "\"ButtonHome\"",
+                    "255",
+                    "\"easeInOutCubic\"",
+                    "1",
+                    ""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "MouseButtonFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "Click",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ShowLayer"
-              },
-              "parameters": [
-                "",
-                "\"Pause\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "",
-                "\"Effect\"",
-                "\"brightness\"",
-                "0.5"
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-              },
-              "parameters": [
-                "Background_Jeda",
-                "Tween",
-                "\"End\"",
-                "255",
-                "\"easeInOutCubic\"",
-                "1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-              },
-              "parameters": [
-                "Button_Lanjutkan",
-                "Tween",
-                "\"ButtonLanjutkan\"",
-                "255",
-                "\"easeInOutCubic\"",
-                "1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-              },
-              "parameters": [
-                "Musik",
-                "Tween",
-                "\"Musik\"",
-                "255",
-                "\"easeInOutCubic\"",
-                "1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-              },
-              "parameters": [
-                "Sound",
-                "Tween",
-                "\"Musik\"",
-                "255",
-                "\"easeInOutCubic\"",
-                "1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-              },
-              "parameters": [
-                "Button_Home",
-                "Tween",
-                "\"ButtonHome\"",
-                "255",
-                "\"easeInOutCubic\"",
-                "1",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Button_Lanjutkan",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            },
-            {
-              "type": {
-                "value": "LayerVisible"
-              },
-              "parameters": [
-                "",
-                "\"Pause\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "HideLayer"
-              },
-              "parameters": [
-                "",
-                "\"Pause\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "Click",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "",
-                "\"Effect\"",
-                "\"brightness\"",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Background_Jeda",
-                "Opacity",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Button_Lanjutkan",
-                "Opacity",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Sound",
-                "Opacity",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Musik",
-                "Opacity",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Button_Home",
-                "Opacity",
-                "=",
-                "0"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Button_Home",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Or"
-              },
-              "parameters": [],
-              "subInstructions": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_Lanjutkan",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                },
                 {
                   "type": {
                     "value": "LayerVisible"
@@ -12041,44 +12895,215 @@
                 },
                 {
                   "type": {
-                    "value": "LayerVisible"
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
                   },
                   "parameters": [
                     "",
-                    "\"Reward\""
+                    "Sound\\sfx\\pause\\button lanjutkan- aquarium ajaib.mp3",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Pause\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Click",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetLayerEffectParameter"
+                  },
+                  "parameters": [
+                    "",
+                    "",
+                    "\"Effect\"",
+                    "\"brightness\"",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Background_Jeda",
+                    "Opacity",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Button_Lanjutkan",
+                    "Opacity",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "Opacity",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Musik",
+                    "Opacity",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Button_Home",
+                    "Opacity",
+                    "=",
+                    "0"
                   ]
                 }
               ]
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_Home",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "LayerVisible"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LayerVisible"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Reward\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pause\\button home - aquarium ajaib.wav",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Scene",
+                    "=",
+                    "\"Home\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Loading\"",
+                    ""
+                  ]
+                }
+              ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "Scene",
-                "=",
-                "\"Home\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Loading\"",
-                ""
-              ]
-            }
-          ]
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -12122,6 +13147,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\pause\\button lanjutkan- aquarium ajaib.mp3",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -12152,6 +13190,14 @@
             },
             {
               "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -12161,6 +13207,85 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Musik",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.BGM",
+                "=",
+                "Musik.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Sound",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.SFX",
+                "=",
+                "Sound.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -12365,7 +13490,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.3797121001947931,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -15494,6 +16620,30 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "",
+                "TempLoad"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\bgm\\bgm main gameplay - aquarium ajaib.wav",
+                "1",
+                "",
+                "Data.BGM",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -15810,6 +16960,66 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "=",
+                    "Data.SFX",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Musik",
+                    "=",
+                    "Data.BGM",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "!=",
+                    "\"0\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "JSONToVariableStructure2"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "Data"
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -15838,6 +17048,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\bersihin lumut pakai sponge versi 1x - aquarium ajaib [music].wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "MarchingSquares::MarchingSquaresBehavior::MaskDisk"
@@ -15883,6 +17106,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -15956,6 +17180,19 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "SetNumberVariable"
@@ -16096,12 +17333,38 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
                         "Click",
                         "=",
                         "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
                       ]
                     },
                     {
@@ -16264,12 +17527,38 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
                         "Click",
                         "=",
                         "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
                       ]
                     },
                     {
@@ -16413,6 +17702,19 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
@@ -16511,246 +17813,185 @@
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Pause",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "Button_Lanjutkan",
-                    "",
-                    "",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Button_Pause",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\pause\\button pause - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Click",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ShowLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetLayerEffectParameter"
+                      },
+                      "parameters": [
+                        "",
+                        "",
+                        "\"Effect\"",
+                        "\"brightness\"",
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Background_Jeda",
+                        "Tween",
+                        "\"End\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Button_Lanjutkan",
+                        "Tween",
+                        "\"ButtonLanjutkan\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Musik",
+                        "Tween",
+                        "\"Musik\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Sound",
+                        "Tween",
+                        "\"Musik\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "Tween",
+                        "\"ButtonHome\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "LayerVisible"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "HideLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Click",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetLayerEffectParameter"
-                  },
-                  "parameters": [
-                    "",
-                    "",
-                    "\"Effect\"",
-                    "\"brightness\"",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Background_Jeda",
-                    "Opacity",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Button_Lanjutkan",
-                    "Opacity",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Button_Home",
-                    "Opacity",
-                    "=",
-                    "0"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "Button_Pause",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "Click",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetLayerEffectParameter"
-                  },
-                  "parameters": [
-                    "",
-                    "",
-                    "\"Effect\"",
-                    "\"brightness\"",
-                    "0.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Background_Jeda",
-                    "Tween",
-                    "\"End\"",
-                    "255",
-                    "\"easeInOutCubic\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Button_Lanjutkan",
-                    "Tween",
-                    "\"ButtonLanjutkan\"",
-                    "255",
-                    "\"easeInOutCubic\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Button_Home",
-                    "Tween",
-                    "\"ButtonHome\"",
-                    "255",
-                    "\"easeInOutCubic\"",
-                    "1",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "Button_Home",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Or"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Button_Lanjutkan",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "LayerVisible"
@@ -16762,44 +18003,215 @@
                     },
                     {
                       "type": {
-                        "value": "LayerVisible"
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
                       },
                       "parameters": [
                         "",
-                        "\"Reward\""
+                        "Sound\\sfx\\pause\\button lanjutkan- aquarium ajaib.mp3",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "HideLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Click",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetLayerEffectParameter"
+                      },
+                      "parameters": [
+                        "",
+                        "",
+                        "\"Effect\"",
+                        "\"brightness\"",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Background_Jeda",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Button_Lanjutkan",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Sound",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Musik",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "Opacity",
+                        "=",
+                        "0"
                       ]
                     }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "LayerVisible"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "LayerVisible"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Reward\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\pause\\button home - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "Scene",
+                        "=",
+                        "\"Home\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.3"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Loading\"",
+                        ""
+                      ]
+                    }
+                  ]
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Scene",
-                    "=",
-                    "\"Home\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Loading\"",
-                    ""
-                  ]
-                }
-              ]
+              "parameters": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -16843,6 +18255,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pause\\button lanjutkan- aquarium ajaib.mp3",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
@@ -16869,6 +18294,14 @@
                     "\"Data\"",
                     "\"Data\"",
                     "ToJSON(Data)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
                   ]
                 },
                 {
@@ -17296,6 +18729,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\paus dapet bintang 1 - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -17343,6 +18789,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\paus dapet bintang 2 - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "SetNumberVariable"
@@ -17406,6 +18865,19 @@
               "parameters": [
                 "",
                 "\"Reward\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\level selesai - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
               ]
             },
             {
@@ -17508,6 +18980,85 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Musik",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.BGM",
+                "=",
+                "Musik.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Sound",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.SFX",
+                "=",
+                "Sound.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -17777,7 +19328,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.32169117647058865,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -20970,7 +22522,6 @@
       },
       "events": [
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -20983,6 +22534,30 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "",
+                "TempLoad"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\bgm\\bgm main gameplay - aquarium ajaib.wav",
+                "1",
+                "",
+                "Data.BGM",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "SetNumberVariable"
@@ -21301,6 +22876,66 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "=",
+                    "Data.SFX",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+                  },
+                  "parameters": [
+                    "Musik",
+                    "=",
+                    "Data.BGM",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "!=",
+                    "\"0\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "JSONToVariableStructure2"
+                  },
+                  "parameters": [
+                    "TempLoad",
+                    "Data"
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -21329,6 +22964,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\bersihin lumut pakai sponge versi 1x - aquarium ajaib [music].wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "MarchingSquares::MarchingSquaresBehavior::MaskDisk"
@@ -21374,6 +23022,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -21447,6 +23096,19 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "SetNumberVariable"
@@ -21587,12 +23249,38 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
                         "Click",
                         "=",
                         "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
                       ]
                     },
                     {
@@ -21734,6 +23422,19 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "SetNumberVariable"
@@ -21893,6 +23594,19 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
@@ -22029,6 +23743,19 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "SetNumberVariable"
@@ -22169,12 +23896,38 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
                         "Click",
                         "=",
                         "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
                       ]
                     },
                     {
@@ -22337,6 +24090,19 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
@@ -22475,12 +24241,38 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
                         "Click",
                         "=",
                         "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\jawaban benar atau layar hijau - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
                       ]
                     },
                     {
@@ -22624,6 +24416,19 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\main gameplay\\button pilih kanan kiri atau sama dengan - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
@@ -22722,246 +24527,185 @@
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Pause",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "Button_Lanjutkan",
-                    "",
-                    "",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Button_Pause",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\pause\\button pause - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Click",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ShowLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetLayerEffectParameter"
+                      },
+                      "parameters": [
+                        "",
+                        "",
+                        "\"Effect\"",
+                        "\"brightness\"",
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Background_Jeda",
+                        "Tween",
+                        "\"End\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Button_Lanjutkan",
+                        "Tween",
+                        "\"ButtonLanjutkan\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Musik",
+                        "Tween",
+                        "\"Musik\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Sound",
+                        "Tween",
+                        "\"Musik\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "Tween",
+                        "\"ButtonHome\"",
+                        "255",
+                        "\"easeInOutCubic\"",
+                        "1",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "LayerVisible"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "HideLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Click",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetLayerEffectParameter"
-                  },
-                  "parameters": [
-                    "",
-                    "",
-                    "\"Effect\"",
-                    "\"brightness\"",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Background_Jeda",
-                    "Opacity",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Button_Lanjutkan",
-                    "Opacity",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Button_Home",
-                    "Opacity",
-                    "=",
-                    "0"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "Button_Pause",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "Click",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetLayerEffectParameter"
-                  },
-                  "parameters": [
-                    "",
-                    "",
-                    "\"Effect\"",
-                    "\"brightness\"",
-                    "0.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Background_Jeda",
-                    "Tween",
-                    "\"End\"",
-                    "255",
-                    "\"easeInOutCubic\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Button_Lanjutkan",
-                    "Tween",
-                    "\"ButtonLanjutkan\"",
-                    "255",
-                    "\"easeInOutCubic\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Button_Home",
-                    "Tween",
-                    "\"ButtonHome\"",
-                    "255",
-                    "\"easeInOutCubic\"",
-                    "1",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "Button_Home",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Or"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Button_Lanjutkan",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "LayerVisible"
@@ -22973,44 +24717,215 @@
                     },
                     {
                       "type": {
-                        "value": "LayerVisible"
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
                       },
                       "parameters": [
                         "",
-                        "\"Reward\""
+                        "Sound\\sfx\\pause\\button lanjutkan- aquarium ajaib.mp3",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "HideLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Click",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetLayerEffectParameter"
+                      },
+                      "parameters": [
+                        "",
+                        "",
+                        "\"Effect\"",
+                        "\"brightness\"",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Background_Jeda",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Button_Lanjutkan",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Sound",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Musik",
+                        "Opacity",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "Opacity",
+                        "=",
+                        "0"
                       ]
                     }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "LayerVisible"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "LayerVisible"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Reward\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Sound\\sfx\\pause\\button home - aquarium ajaib.wav",
+                        "2",
+                        "",
+                        "Data.SFX",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "Scene",
+                        "=",
+                        "\"Home\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.3"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Loading\"",
+                        ""
+                      ]
+                    }
+                  ]
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Scene",
-                    "=",
-                    "\"Home\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Loading\"",
-                    ""
-                  ]
-                }
-              ]
+              "parameters": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -23054,12 +24969,33 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pause\\button lanjutkan- aquarium ajaib.mp3",
+                    "2",
+                    "",
+                    "Data.SFX",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetStringVariable"
                   },
                   "parameters": [
                     "Scene",
                     "=",
                     "\"Level3\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
                   ]
                 },
                 {
@@ -23460,6 +25396,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\paus dapet bintang 1 - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -23507,6 +25456,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\paus dapet bintang 2 - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "SetNumberVariable"
@@ -23570,6 +25532,19 @@
               "parameters": [
                 "",
                 "\"Reward\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sound\\sfx\\main gameplay\\level selesai - aquarium ajaib.wav",
+                "2",
+                "",
+                "Data.SFX",
+                ""
               ]
             },
             {
@@ -23652,6 +25627,85 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Musik",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.BGM",
+                "=",
+                "Musik.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "Sound",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Data.SFX",
+                "=",
+                "Sound.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"Data\"",
+                "\"Data\"",
+                "ToJSON(Data)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -23921,7 +25975,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.301046119718246,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -26008,9 +28063,137 @@
           "type": "Tween::TweenBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Sound",
+      "name": "Sound",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {},
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "Sound",
+      "name": "Sound",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVolumeMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "Data.BGM"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVolumeSoundCanal"
+              },
+              "parameters": [
+                "",
+                "2",
+                "=",
+                "Data.SFX"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "eventsFunctionsExtensions": [
     {
       "author": "",
@@ -32522,6 +34705,7 @@
               "initialVariables": []
             }
           ],
+          "editionSettings": {},
           "eventsFunctions": [
             {
               "fullName": "",
@@ -34584,7 +36768,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             },
             {
               "areaMaxX": 256,
@@ -34840,7 +37025,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             }
           ]
         }
